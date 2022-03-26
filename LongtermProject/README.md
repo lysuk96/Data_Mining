@@ -11,7 +11,7 @@
     
 - 문제 및 해결 방식
     
-    방식 선택 : **Content-Based & Collaborative Filtering Recommender System**
+    방식 선택 : **Collaborative Filtering Recommender System**
     
     1️⃣ 추천 시스템의 쟁점 : Matrix Sparsity
     
