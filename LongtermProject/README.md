@@ -1,4 +1,4 @@
-# Content-Based Movie Recommender System  
+# Content-Based & Collaborative Filtering Movie Recommender System  
 
 
 ## 프로젝트 내용
